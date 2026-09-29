@@ -1,28 +1,57 @@
 # Jether Garque
 
-### Freelance full-stack developer · Research systems · Education technology
+### Freelance full-stack developer building useful systems for research, education, and real-world operations.
 
-I build dependable web and cross-platform applications that turn complex workflows into clear, useful products.
+![Profile views](https://komarev.com/ghpvc/?username=Jether34&style=flat-square&color=0e7490)
+![Available for freelance](https://img.shields.io/badge/Available%20for-Freelance%20Projects-0e7490?style=flat-square)
 
-Based in the Philippines.
+I design and build complete products—from responsive interfaces and APIs to databases, scientific computation, security, and deployment.
 
-## What I build
+## Featured projects
 
-- Research and data-driven platforms
-- School management and attendance systems
-- Responsive web and mobile experiences
-- Secure APIs, authentication, and role-based workflows
-- Offline-capable and cross-platform applications
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## Featured work
+### [CCOverT](https://github.com/Jether34/CCOverT)
 
-| Project | What it does | Main technologies |
-| --- | --- | --- |
-| [CCOverT](https://github.com/Jether34/CCOverT) | Coral-cover research, prediction history, reporting, and researcher model controls | React, TypeScript, Express, FastAPI, MongoDB, Docker |
-| [Sysnnova](https://github.com/Jether34/Sysnnova) | Cross-platform school grade management with offline sync and secure messaging | React, Node.js, Express, MongoDB, Electron, Capacitor |
-| [QR Attendance System](https://github.com/Jether34/Advance-QR-Code-Based-Attendance-Monitoring-Systm-) | QR attendance, school records, dashboards, exports, and reporting | PHP, MySQL, JavaScript, HTML, CSS |
+Research workspace for coral-cover prediction, computation history, reporting, and researcher-controlled model parameters.
 
-## Toolkit
+`React` `TypeScript` `FastAPI` `MongoDB` `Docker`
+
+</td>
+<td width="33%" valign="top">
+
+### [Sysnnova](https://github.com/Jether34/Sysnnova)
+
+Cross-platform school grade-management system with offline synchronization, secure messaging, and role-based workflows.
+
+`React` `Node.js` `MongoDB` `Electron` `Capacitor`
+
+</td>
+<td width="33%" valign="top">
+
+### [QR Attendance](https://github.com/Jether34/Advance-QR-Code-Based-Attendance-Monitoring-Systm-)
+
+QR attendance and school information platform with dashboards, records, exports, and reporting tools.
+
+`PHP` `MySQL` `JavaScript` `HTML` `CSS`
+
+</td>
+</tr>
+</table>
+
+## What I do
+
+| Area | Focus |
+| --- | --- |
+| Product development | Full-stack web applications and responsive UI/UX |
+| Backend systems | REST APIs, databases, authentication, and role-based access |
+| Research software | Reproducible computation, model workflows, and transparent history |
+| Education technology | Attendance, grading, school records, and multi-role systems |
+| Delivery | Docker, testing, deployment, and production documentation |
+
+## Technology stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -34,12 +63,21 @@ Based in the Philippines.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-## Currently focused on
+## GitHub activity
 
-Building polished interfaces, reliable backend systems, reproducible computation, secure data workflows, and production-ready deployments.
+![Jether's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jether34&show_icons=true&hide_border=true&title_color=0e7490&icon_color=0e7490&text_color=475569&bg_color=ffffff)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jether34&layout=compact&hide_border=true&title_color=0e7490&text_color=475569&bg_color=ffffff)
+
+## Certifications
+
+Certification badges and verification links will be added here as they are provided.
 
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jether34-181717?style=flat-square&logo=github)](https://github.com/Jether34)
 [![Credentials](https://img.shields.io/badge/Credentials-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/jether-garque)
+
+📍 Philippines · Open to freelance opportunities
