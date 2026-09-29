@@ -1,47 +1,45 @@
 # Jether Garque
 
-Freelance full-stack developer building practical software for research, education, and community workflows. I work across product design, responsive interfaces, APIs, databases, automation, security, and deployment.
+### Freelance full-stack developer · Research systems · Education technology
 
-## Selected projects
+I build dependable web and cross-platform applications that turn complex workflows into clear, useful products.
 
-### [CCOverT](https://github.com/Jether34/CCOverT)
+Based in the Philippines.
 
-A research workspace for annual live coral-cover prediction in Puerto Princesa City, Palawan. It combines client, researcher, and developer workspaces with authenticated history, reporting, a shared model configuration, and year-by-year scientific computation.
+## What I build
 
-**Stack:** React, TypeScript, Vite, Node.js, Express, Python, FastAPI, MongoDB, Docker, REST APIs, automated testing.
-
-### [Sysnnova](https://github.com/Jether34/Sysnnova)
-
-A cross-platform school grade-management system for Philippine senior high schools. It supports multi-school workflows, teacher and adviser review, student access, encrypted messaging, signed grade uploads, offline-first synchronization, and web, Android, Windows, and Linux clients.
-
-**Stack:** React, JavaScript, Node.js, Express, MongoDB, Tailwind CSS, IndexedDB, service workers, Web Crypto, Capacitor, Electron, and Vite.
-
-### [Advance QR Code-Based Attendance Monitoring System](https://github.com/Jether34/Advance-QR-Code-Based-Attendance-Monitoring-Systm-)
-
-A QR-based attendance and school information system for Palawan National School. It includes role-based dashboards, QR scanning, student and teacher workflows, attendance records, exports, reporting, security guidance, and deployment tooling.
-
-**Stack:** PHP, MySQL, JavaScript, HTML, CSS, QR and barcode tooling, Apache configuration, Shell, and PowerShell.
-
-## Developer profile
-
-My repositories reflect a freelance full-stack and systems-oriented developer who enjoys turning complex operational requirements into usable, secure, and maintainable products. My strongest areas are:
-
-- Full-stack web application development
-- Research and data-driven systems
-- Education and attendance platforms
-- Responsive and mobile-first UI/UX
-- REST API design and database-backed workflows
+- Research and data-driven platforms
+- School management and attendance systems
+- Responsive web and mobile experiences
+- Secure APIs, authentication, and role-based workflows
 - Offline-capable and cross-platform applications
-- Authentication, role-based access, audit trails, and data protection
-- Scientific computation, reproducibility, testing, and deployment
 
-## Technology stack
+## Featured work
 
-`React` · `TypeScript` · `JavaScript` · `Vite` · `Node.js` · `Express` · `PHP` · `Python` · `FastAPI` · `MongoDB` · `MySQL` · `Docker` · `Electron` · `Capacitor` · `Tailwind CSS` · `HTML` · `CSS` · `REST APIs` · `Web Crypto` · `Automated testing`
+| Project | What it does | Main technologies |
+| --- | --- | --- |
+| [CCOverT](https://github.com/Jether34/CCOverT) | Coral-cover research, prediction history, reporting, and researcher model controls | React, TypeScript, Express, FastAPI, MongoDB, Docker |
+| [Sysnnova](https://github.com/Jether34/Sysnnova) | Cross-platform school grade management with offline sync and secure messaging | React, Node.js, Express, MongoDB, Electron, Capacitor |
+| [QR Attendance System](https://github.com/Jether34/Advance-QR-Code-Based-Attendance-Monitoring-Systm-) | QR attendance, school records, dashboards, exports, and reporting | PHP, MySQL, JavaScript, HTML, CSS |
+
+## Toolkit
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+## Currently focused on
+
+Building polished interfaces, reliable backend systems, reproducible computation, secure data workflows, and production-ready deployments.
 
 ## Connect
 
-- [GitHub](https://github.com/Jether34)
-- [Credentials](https://www.credly.com/users/jether-garque)
-
-Based in the Philippines.
+[![GitHub](https://img.shields.io/badge/GitHub-Jether34-181717?style=flat-square&logo=github)](https://github.com/Jether34)
+[![Credentials](https://img.shields.io/badge/Credentials-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/jether-garque)
