@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Jether Garque, software engineer</title>
+  <desc id="desc">A futuristic navy and cyan profile banner with a subtle geometric grid.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f" />
+      <stop offset="0.58" stop-color="#101d32" />
+      <stop offset="1" stop-color="#132b3d" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#48d7ff" />
+      <stop offset="1" stop-color="#9c7cff" />
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#8bcde8" stroke-opacity=".09" stroke-width="1" />
+      <circle cx="1" cy="1" r="1.4" fill="#8bcde8" fill-opacity=".24" />
+    </pattern>
+    <radialGradient id="orb">
+      <stop offset="0" stop-color="#48d7ff" stop-opacity=".2" />
+      <stop offset="1" stop-color="#48d7ff" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)" />
+  <rect width="1200" height="340" rx="24" fill="url(#grid)" />
+  <circle cx="1030" cy="154" r="260" fill="url(#orb)" />
+  <g fill="none" stroke="url(#glow)" stroke-width="2" opacity=".65">
+    <path d="M815 340 930 225h105l75-75h90" />
+    <path d="M900 340 1015 225h105l75-75" opacity=".48" />
+    <path d="M940 120h90l48-48h122" opacity=".42" />
+  </g>
+  <g fill="#08111e" stroke="#56dfff" stroke-width="2">
+    <circle cx="930" cy="225" r="5" /><circle cx="1035" cy="225" r="5" />
+    <circle cx="1110" cy="150" r="5" /><circle cx="1078" cy="72" r="5" />
+  </g>
+  <path d="M64 72h52" stroke="url(#glow)" stroke-width="5" stroke-linecap="round" />
+  <text x="64" y="158" fill="#f3f8ff" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1">Jether Garque</text>
+  <text x="67" y="205" fill="#a9c2d5" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="3">SOFTWARE ENGINEER · FULL-STACK DEVELOPER</text>
+  <text x="67" y="252" fill="#68dcf7" font-family="Consolas, monospace" font-size="16">RESEARCH  /  EDUCATION  /  USEFUL SYSTEMS</text>
+  <rect x="64" y="286" width="1072" height="1" fill="#9ce9ff" opacity=".18" />
+  <text x="64" y="315" fill="#8298aa" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="1.5">BUILDING THINGS THAT MAKE COMPLEX WORK CLEARER</text>
+</svg>
