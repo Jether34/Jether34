@@ -24,11 +24,21 @@
 
 [See more projects on my portfolio](https://lingering-wave-20b9.garquejether681.workers.dev/#projects)
 
-## Credentials
+## Certificates
 
-Cisco Networking Academy: Cybersecurity Essentials, Networking Essentials, CCNAv7: Introduction to Networks, Python Essentials 1 and 2, JavaScript Essentials, and NDG Linux Unhatched.
+Cisco Networking Academy course certificates. Select a title to view the PDF.
 
-[Credly profile](https://www.credly.com/users/jether-garque/badges/credly) · [Certificates](https://lingering-wave-20b9.garquejether681.workers.dev/#certificates)
+| Certificate | Issued | Document |
+| --- | --- | --- |
+| English for IT 1 | February 9, 2025 | [View certificate](assets/certificates/english-for-it-1.pdf) |
+| Ethical Hacker | January 30, 2025 | [View certificate](assets/certificates/ethical-hacker.pdf) |
+| Introduction to Cybersecurity | February 10, 2025 | [View certificate](assets/certificates/introduction-to-cybersecurity.pdf) |
+| Introduction to Modern AI | January 27, 2025 | [View certificate](assets/certificates/introduction-to-modern-ai.pdf) |
+
+## Achievements
+
+- Earned seven Cisco Networking Academy credentials covering networking, cybersecurity, Python, JavaScript, and Linux. [View my Credly profile](https://www.credly.com/users/jether-garque/badges/credly).
+- Participated in AWS Community Day Manila 2026.
 
 ## Technologies
 
