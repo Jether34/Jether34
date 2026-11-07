@@ -2,6 +2,8 @@
 
 <img src="assets/profile-banner.svg" alt="Jether Garque | Software engineer" width="100%" />
 
+<img src="assets/ascii-face.gif" alt="Animated ASCII portrait of Jether Garque" width="420" />
+
 ### SOFTWARE ENGINEER · FULL-STACK DEVELOPER · PHILIPPINES
 
 **I build practical software for research, education, and everyday operations.**
