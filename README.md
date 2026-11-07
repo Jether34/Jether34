@@ -1,49 +1,54 @@
 <div align="center">
 
-<table>
-<tr>
-<td width="180" align="center"><img src="assets/jether-profile.jpg" alt="Jether Garque" width="150" /></td>
-<td>
-<h1>Jether S. Garque</h1>
-<p><strong>Software Developer · AI and Applied Machine Learning</strong></p>
-<p>I build software for research, education, and data-driven problem solving.</p>
-<p><a href="https://lingering-wave-20b9.garquejether681.workers.dev/">Portfolio</a> · <a href="https://www.credly.com/users/jether-garque/badges/credly">Credentials</a> · <a href="https://www.linkedin.com/in/jether-garque">LinkedIn</a></p>
-</td>
-</tr>
-</table>
+<table><tr>
+<td width="72%"><img src="assets/profile-banner.svg" alt="Jether Garque | Software engineer" width="100%" /></td>
+<td width="28%"><img src="assets/ascii-face.gif" alt="Animated ASCII portrait of Jether Garque" width="100%" /></td>
+</tr></table>
+
+### SOFTWARE ENGINEER · FULL-STACK DEVELOPER · PHILIPPINES
+
+**I build practical software for research, education, and everyday operations.**
+
+[Portfolio](https://lingering-wave-20b9.garquejether681.workers.dev/) · [Credentials](https://www.credly.com/users/jether-garque/badges/credly) · [Projects](#selected-work) · [Contact](#connect)
 
 </div>
 
+---
+
 ## Selected work
 
-| Project | Focus | Stack |
+| Project | What it does | Stack |
 | --- | --- | --- |
-| [WeeWare](https://github.com/Jether34/WeeWare-) | Forecasting mango pulp weevil infestation from climate and weather data. | Python · LASSO · scikit-learn |
-| [CCOverT](https://github.com/Jether34/CCOverT) | Coral-cover research, analysis, prediction, and reporting. | React · TypeScript · FastAPI · MongoDB |
-| [Mathevo](https://github.com/Jether34/Mathevo) | Cross-platform math workspace with calculators and interactive visualizations. | Flutter · Dart · SQL |
+| [Mathevo](https://github.com/Jether34/Mathevo) | A cross-platform mathematics workspace for calculation, lessons, and interactive visualizations. | Flutter · Dart · SQL |
+| [CCOverT](https://github.com/Jether34/CCOverT) | A research workspace for coral-cover prediction, computation history, reporting, and model configuration. | React · TypeScript · FastAPI · MongoDB |
+| [WeeWare](https://github.com/Jether34/WeeWare-) | Forecasts mango pulp weevil infestation using climate and weather data. | Python · LASSO · scikit-learn |
 
-[See more projects on my portfolio](https://lingering-wave-20b9.garquejether681.workers.dev/#projects)
+[More projects](https://lingering-wave-20b9.garquejether681.workers.dev/#projects)
 
 ## Certificates
 
-Cisco Networking Academy course certificates. Select a title to view the PDF.
+Cisco Networking Academy course certificates. Select a certificate image to open the full PDF.
 
-| Certificate | Issued | Document |
-| --- | --- | --- |
-| English for IT 1 | February 9, 2025 | [View certificate](assets/certificates/english-for-it-1.pdf) |
-| Ethical Hacker | January 30, 2025 | [View certificate](assets/certificates/ethical-hacker.pdf) |
-| Introduction to Cybersecurity | February 10, 2025 | [View certificate](assets/certificates/introduction-to-cybersecurity.pdf) |
-| Introduction to Modern AI | January 27, 2025 | [View certificate](assets/certificates/introduction-to-modern-ai.pdf) |
+<table>
+<tr>
+<td width="50%" align="center"><a href="assets/certificates/english-for-it-1.pdf"><img src="assets/certificates/previews/english-for-it-1.png" alt="English for IT 1 certificate" width="100%" /></a><br /><strong>English for IT 1</strong><br />Issued February 9, 2025</td>
+<td width="50%" align="center"><a href="assets/certificates/ethical-hacker.pdf"><img src="assets/certificates/previews/ethical-hacker.png" alt="Ethical Hacker certificate" width="100%" /></a><br /><strong>Ethical Hacker</strong><br />Issued January 30, 2025</td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="assets/certificates/introduction-to-cybersecurity.pdf"><img src="assets/certificates/previews/introduction-to-cybersecurity.png" alt="Introduction to Cybersecurity certificate" width="100%" /></a><br /><strong>Introduction to Cybersecurity</strong><br />Issued February 10, 2025</td>
+<td width="50%" align="center"><a href="assets/certificates/introduction-to-modern-ai.pdf"><img src="assets/certificates/previews/introduction-to-modern-ai.png" alt="Introduction to Modern AI certificate" width="100%" /></a><br /><strong>Introduction to Modern AI</strong><br />Issued January 27, 2025</td>
+</tr>
+</table>
 
 ## Achievements
 
-- Earned seven Cisco Networking Academy credentials covering networking, cybersecurity, Python, JavaScript, and Linux. [View my Credly profile](https://www.credly.com/users/jether-garque/badges/credly).
+- Earned seven Cisco Networking Academy credentials across networking, cybersecurity, Python, JavaScript, and Linux. [View Credly profile](https://www.credly.com/users/jether-garque/badges/credly).
 - Participated in AWS Community Day Manila 2026.
 
 ## Technologies
 
 Python · scikit-learn · TypeScript · JavaScript · React · Flutter · FastAPI · Node.js · MySQL · MongoDB
 
-## Contact
+## Connect
 
-For project or software development inquiries, reach me through [LinkedIn](https://www.linkedin.com/in/jether-garque) or my [portfolio](https://lingering-wave-20b9.garquejether681.workers.dev/).
+[Portfolio](https://lingering-wave-20b9.garquejether681.workers.dev/) · [GitHub](https://github.com/Jether34) · [Credly](https://www.credly.com/users/jether-garque/badges/credly) · [LinkedIn](https://www.linkedin.com/in/jether-garque)
