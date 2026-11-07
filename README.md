@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Jether Garque | Software engineer" width="100%" />
-
-<img src="assets/ascii-face.gif" alt="Animated ASCII portrait of Jether Garque" width="420" />
+<table><tr>
+<td width="72%"><img src="assets/profile-banner.svg" alt="Jether Garque | Software engineer" width="100%" /></td>
+<td width="28%"><img src="assets/ascii-face.gif" alt="Animated ASCII portrait of Jether Garque" width="100%" /></td>
+</tr></table>
 
 ### SOFTWARE ENGINEER · FULL-STACK DEVELOPER · PHILIPPINES
 
