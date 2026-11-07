@@ -17,20 +17,32 @@
 
 ## Featured projects
 
-### [Mathevo](https://github.com/Jether34/Mathevo)
-A cross-platform mathematics workspace for calculations, lessons, and interactive visualizations.
-
-`Flutter`  `Dart`  `SQL`
-
-### [CCOverT](https://github.com/Jether34/CCOverT)
-A research workspace for coral-cover prediction, computation history, model configuration, and reporting.
-
-`React`  `TypeScript`  `FastAPI`  `MongoDB`
-
-### [WeeWare](https://github.com/Jether34/WeeWare-)
-A forecasting project that studies mango pulp weevil infestation using climate and weather data.
-
-`Python`  `LASSO`  `scikit-learn`
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Jether34/Mathevo">Mathevo</a></h3>
+<p>Cross-platform mathematics workspace for calculation, lessons, and interactive visualizations.</p>
+<p><code>Flutter</code> <code>Dart</code> <code>SQL</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Jether34/CCOverT">CCOverT</a></h3>
+<p>Coral-cover research workspace for Puerto Princesa, Palawan, with analysis, prediction, and reporting.</p>
+<p><code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>MongoDB</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Jether34/WeeWare-">WeeWare</a></h3>
+<p>Data-driven forecasting project for mango pulp weevil infestation using climate and weather inputs.</p>
+<p><code>Python</code> <code>LASSO</code> <code>scikit-learn</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Jether34/Sysnnova">Sysnnova</a></h3>
+<p>School grade management platform for Philippine senior high schools, with web, Android, and desktop clients.</p>
+<p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Electron</code> <code>Capacitor</code></p>
+</td>
+</tr>
+</table>
 
 [Explore more projects](https://lingering-wave-20b9.garquejether681.workers.dev/#projects)
 
