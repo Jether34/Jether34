@@ -15,15 +15,24 @@
 
 ---
 
-## Selected work
+## Featured projects
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [Mathevo](https://github.com/Jether34/Mathevo) | A cross-platform mathematics workspace for calculation, lessons, and interactive visualizations. | Flutter, Dart, SQL |
-| [CCOverT](https://github.com/Jether34/CCOverT) | A research workspace for coral-cover prediction, computation history, reporting, and model configuration. | React, TypeScript, FastAPI, MongoDB |
-| [WeeWare](https://github.com/Jether34/WeeWare-) | Forecasts mango pulp weevil infestation using climate and weather data. | Python, LASSO, scikit-learn |
+### [Mathevo](https://github.com/Jether34/Mathevo)
+A cross-platform mathematics workspace for calculations, lessons, and interactive visualizations.
 
-[More projects](https://lingering-wave-20b9.garquejether681.workers.dev/#projects)
+`Flutter`  `Dart`  `SQL`
+
+### [CCOverT](https://github.com/Jether34/CCOverT)
+A research workspace for coral-cover prediction, computation history, model configuration, and reporting.
+
+`React`  `TypeScript`  `FastAPI`  `MongoDB`
+
+### [WeeWare](https://github.com/Jether34/WeeWare-)
+A forecasting project that studies mango pulp weevil infestation using climate and weather data.
+
+`Python`  `LASSO`  `scikit-learn`
+
+[Explore more projects](https://lingering-wave-20b9.garquejether681.workers.dev/#projects)
 
 ## Certificates
 
